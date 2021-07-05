@@ -1,7 +1,7 @@
      ; ** Atari 7800 OpenBIOS
 
      ; **********************************************************************
-     ; ** Created by Bob Decrescenzo and Michael Saarna, 2021
+     ; ** Created by Bob DeCrescenzo and Michael Saarna, 2021
      ; **
      ; ** the BIOS source code is provided here under the CC0 license.
      ; ** https://creativecommons.org/publicdomain/zero/1.0/legalcode
