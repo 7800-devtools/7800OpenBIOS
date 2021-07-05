@@ -7,3 +7,5 @@ only distribute the KiloParsec game as part of the 7800OpenBIOS, running via
 console BIOS ROM or equivalent. Distribution of KiloParsec in cart form is 
 expressly forbidden.
 
+The 7800OpenBIOS was created by Mike Saarna and Bob Decrescenzo.
+The KiloParsec game was created by Bob Decrescenzo.
